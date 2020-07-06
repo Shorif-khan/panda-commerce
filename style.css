@@ -24,3 +24,35 @@
     cursor: pointer;
     padding: 5px 22px;
 }
+.categories img {
+    width: 100px;
+}
+.cat1, .cat2, .cat3 {
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: #fff;
+}
+.cat1 {
+    background-color: orange;
+}
+.cat2 {
+    background-color: orchid;
+}
+.cat3 {
+    background-color: blue;
+}
+.card {
+    border: none;
+    box-shadow:  6px 6px 8px rgba(128, 128, 128, 0.616);
+    border-radius: 8px;
+}
+.card-footer {
+    border: none;
+    background-color: rgba(128, 128, 128, 0.116);
+}
+.foot {
+    height: 300px;
+}
+footer {
+    text-align: center;
+}
